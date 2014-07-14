@@ -1,0 +1,8 @@
+output: quaternion_assignment2.o Utility.o
+	gcc -o "$@" quaternion_assignment2.o Utility.o -lGL -lGLU -lglut -lc -lm -lstdc++
+quaternion_assignment2.o: quaternion_assignment2.cpp
+	gcc -c quaternion_assignment2.cpp -lGL -lGLU -lglut -lc -lm -lstdc++ 
+Utility.o: Utility.cpp
+	g++ -c Utility.cpp -lglut -lGL -lGLU -lc -lm -lstdc++ 
+clean:
+	rm *.o
