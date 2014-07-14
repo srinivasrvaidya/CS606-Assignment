@@ -546,7 +546,7 @@ int main(int argc, char** argv)
     glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB|GLUT_DEPTH);
     glutInitWindowSize(900,900);
     glutInitWindowPosition(100,100);
-    glutCreateWindow("CS606: COMPUTER GRAPHICS; Assignment 2: LUckY BuNNy ");
+    glutCreateWindow("CS606: Assignment ");
     glutMouseFunc(mouseHandler);
     glutIdleFunc(animateLight);
     glutKeyboardFunc(keyPressed);
