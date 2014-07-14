@@ -5,7 +5,7 @@ Graphical application that reads in a .ply file, renders a polygonal mesh and im
 
 === Youtube link ===
 
-ttp://youtu.be/DPpfIbHWMFo
+http://youtu.be/DPpfIbHWMFo
 
 === Installation ===
 
