@@ -2,6 +2,11 @@
 
 Graphical application that reads in a .ply file, renders a polygonal mesh and implements lighting models on it
 
+
+=== Youtube link ===
+
+ttp://youtu.be/DPpfIbHWMFo
+
 === Installation ===
 
 Install free-glut libraries. To do the same, at terminal punch in
