@@ -1,4 +1,4 @@
-=== CS606 Assignment ===
+=== IIITB - CS606 Assignment ===
 
 Graphical application that reads in a .ply file, renders a polygonal mesh and implements lighting models on it
 
